@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  AVIWAR
+
+  Created by Kevin Hsia on 4/8/16.
+  Copyright © 2016 Laser Studio. All rights reserved.
+*/
+
+SCORE = "SCORE";
+HIGH_SCORE = "HIGH SCORE";
